@@ -7,4 +7,4 @@ This is an official organization repository used for store and manage common kno
 
 ## News
 
- * 2015-11-09: [It's a PhpStorm Open Source Project!](https://github.com/assarte/org-webapper/wiki/Home::News#its-a-phpstorm-open-source-project)
+ * 2015-11-09: [It's a PhpStorm Open Source Project!](https://github.com/Webapper/org-webapper/wiki/Home::News#its-a-phpstorm-open-source-project)
